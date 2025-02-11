@@ -1,0 +1,13 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+.block{
+    border-left: 10px solid;
+    border-color: #decb51;
+    background-color: #fffaef;
+    padding: 10px;
+}
+h1{
+    color: #0b639e;
+}
