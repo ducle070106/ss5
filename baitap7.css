@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
+h1{
+    text-transform: uppercase;
+}
+th,td{
+    padding: 10px;
+}
+thead{
+    text-transform: uppercase;
+    background-color: #027bff;
+    color: white;
+}
+tbody tr:nth-child(odd) {
+    background-color:#f2f2f2;
+}
+tbody tr:hover{
+    background-color: #f2f2f25b;
+    color: rgb(110, 110, 110);
+}
+button{
+    width: 75px;
+    margin-left: 10px;
+    border: none;
+}
+button:hover{
+    background-color: wheat;
+}
+.button-red{
+    color: white;
+    background-color: red
+}
+.button-green{
+    color:white;
+    background-color: limegreen;
+}
+.button-yellow{
+    color: black;
+    background-color: yellow;
+}
